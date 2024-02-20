@@ -788,10 +788,6 @@ PrefabInstance:
       value: SM_Prop_Frog_01
       objectReference: {fileID: 0}
     - target: {fileID: 2928052250964461665, guid: 90d6d290c4107db46bfe01df578d4a80, type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 2928052250964461665, guid: 90d6d290c4107db46bfe01df578d4a80, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.154
       objectReference: {fileID: 0}
